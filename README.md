@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **getting started with DevOps**
 
-- 👨‍💻 All of my projects are available at [nazif.website](nazif.website)
+- 👨‍💻 All of my projects are available at [http://nazif.website/](nazif.website)
 
 - 💬 Ask me about **my interests, experience at UBC, tech**
 
