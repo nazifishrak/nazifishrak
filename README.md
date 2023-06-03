@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nazif</h1>
 <h3 align="center">A passionate 3rd year Computer Science student from UBC</h3>
 
-- 🔭 I’m currently working on [Creating a raw node uptime monitor](https://github.com/nazifishrak/Vanilla-NodeJs-Server-Uptime-Monitor)
+- 🔭 I’m currently working on [a MERN Stack Project ](https://github.com/nazifishrak/Ecommerce-MERN)
 
 - 🌱 I’m currently learning **Backend Development with Node and Data Science**
 
