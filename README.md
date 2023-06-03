@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nzfishrak60@gmail.com**
 
-- ⚡ Something I want to do more **I am a huge fan of open source software and believe in the power of collaboration and community-driven development. I am always looking for new ways to contribute and give back to the open source community.**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
