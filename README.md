@@ -2,9 +2,9 @@
 <h3 align="center">Welcome to my GitHub</h3>
 
 ## About Me
-🎓 I'm currently studying Computer Science at UBC.
-🌱 I’m currently learning Fullstack Development, Data Analytics.
-👯 I’m working at D Wave as a Business Systems Analyst.
+- 🎓 I'm currently studying Computer Science at UBC.
+- 🌱 I’m currently learning Fullstack Development, Data Analytics.
+- 📊 I’m working at D Wave as a Business Systems Analyst.
 
 
 <p align="left">
