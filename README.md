@@ -1,21 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nazif</h1>
-<h3 align="center">A passionate 3rd year Computer Science student from UBC</h3>
+<h3 align="center">Welcome to my GitHub</h3>
 
-- 🔭 I’m currently working on [a MERN Stack Project ](https://github.com/nazifishrak/Ecommerce-MERN)
+## About Me
+🎓 I'm currently studying Computer Science at UBC.
+🌱 I’m currently learning Fullstack Development, Data Analytics.
+👯 I’m working at D Wave as a Business Systems Analyst.
 
-- 🌱 I’m currently learning **Backend Development with Node and Data Science**
 
-- 🤝 I’m looking for help with **getting started with DevOps**
-
-- 👨‍💻 All of my projects are available at [nazif.website](http://nazif.website/)
-
-- 💬 Ask me about **my interests, experience at UBC, tech**
-
-- 📫 How to reach me **nzfishrak60@gmail.com**
-
-- 
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
