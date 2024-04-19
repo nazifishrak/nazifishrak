@@ -1,10 +1,16 @@
 <h1 align="center">Hi 👋, I'm Nazif</h1>
-<h3 align="center">Welcome to my GitHub</h3>
+<h3 align="center">I Code for Fun</h3>
 
-## About Me
-- 🎓 I'm currently studying Computer Science at UBC.
-- 🌱 I’m currently learning Fullstack Development, Data Analytics.
-- 📊 I’m working at D Wave as a Business Systems Analyst.
+**Hello! I’m a dedicated technologist with a robust background in coding, which began in grade 11. My journey is driven by a profound passion for understanding and mastering the technological landscape.**
+
+**Educator:**
+With a history of teaching since grade 10, I prioritize clear, intuitive explanations to illuminate complex concepts in technology and mathematics.
+
+**Technologist:**
+Proficient in front-end and back-end development, I also explore machine learning and cloud technologies, blending theory with practical application.
+
+**Aspiring Technical Product Manager:**
+I am keen on harnessing data insights to build innovative products that address real-world challenges, steering my career towards Technical Product Management.
 
 
 <p align="left">
