@@ -1,22 +1,34 @@
-<h1 align="center">Hi 👋, I'm Nazif</h1>
-<h3 align="center">I Code for Fun</h3>
 
-**Hello! I’m a dedicated technologist with a robust background in coding, which began in grade 11. My journey is driven by a profound passion for understanding and mastering the technological landscape.**
+---
 
-**Educator:**
-With a history of teaching since grade 10, I prioritize clear, intuitive explanations to illuminate complex concepts in technology and mathematics.
+# Nazif Ishrak—@nazifishrak
 
-**Technologist:**
-Proficient in front-end and back-end development, I also explore machine learning and cloud technologies, blending theory with practical application.
+Hi there! I'm Nazif, a Computer Science major at UBC and a tech enthusiast passionate about product management and software engineering.
 
-**Aspiring Technical Product Manager:**
-I am keen on harnessing data insights to build innovative products that address real-world challenges, steering my career towards Technical Product Management.
+Learn more about my journey on my [personal website](https://nazif-ishrak.me) and connect with me on [LinkedIn](https://www.linkedin.com/in/nazif-ishrak/).
 
+## What I'm Currently Working On 📚
 
-<p align="left">
-</p>
+- **Product Management Intern** at Broadridge 
+- **Coding Instructor** at Algorithmics 
+- **Residence Advisor** at UBC Housing
+- Learning about scalable software implementations and how to utilise data better
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## My Journey So Far 🚀
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nazifishrak&" alt="nazifishrak" /></p>
+- Interned as a Business Systems Analyst at **[D-Wave Quantum Systems](https://www.dwavesys.com/)**
+- **Teaching Assistant** at the University of British Columbia 
+- Data Engineer Intern at **[Pathao Limited](https://pathao.com/)**
+- VP Technical **[UBC Quantum Computing Club](https://www.ubcquantum.com/)**
+
+## Future Plans 🔮
+
+- Keep learning and building useful and practical generative AI solutions
+- Participating in hackathons and side projects
+- Expanding my skills in product management and software development
+
+## Get in Touch 📬
+
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nazif-ishrak/) or via my [personal website](https://nazif-ishrak.me). I'm always excited to connect with new people and collaborate on interesting projects!
+
+---
