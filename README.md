@@ -8,15 +8,13 @@ Hi there! I'm Nazif, a Computer Science major at UBC and a tech enthusiast passi
 Learn more about my journey on my [personal website](https://nazif-ishrak.me) and connect with me on [LinkedIn](https://www.linkedin.com/in/nazif-ishrak/).
 
 ## What I'm Currently Working On 📚
-
-- **Product Management Intern** at Broadridge 
-- **Coding Instructor** at Algorithmics 
-- **Residence Advisor** at UBC Housing
+- Building CustomTube
 - Learning about scalable software implementations and how to utilise data better
 
 ## My Journey So Far 🚀
-
+- **Product Management Intern** at Broadridge
 - Interned as a Business Systems Analyst at **[D-Wave Quantum Systems](https://www.dwavesys.com/)**
+- **Coding Instructor** at Algorithmics 
 - **Teaching Assistant** at the University of British Columbia 
 - Data Engineer Intern at **[Pathao Limited](https://pathao.com/)**
 - VP Technical **[UBC Quantum Computing Club](https://www.ubcquantum.com/)**
