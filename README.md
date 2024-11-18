@@ -12,7 +12,7 @@ Learn more about my journey on my [personal website](https://nazif-ishrak.me) an
 - Learning about scalable software implementations and how to utilise data better
 
 ## My Journey So Far 🚀
-- **Product Management Intern** at Broadridge
+- **Product Management and Software Dev Intern** at Broadridge
 - Interned as a Business Systems Analyst at **[D-Wave Quantum Systems](https://www.dwavesys.com/)**
 - **Coding Instructor** at Algorithmics 
 - **Teaching Assistant** at the University of British Columbia 
